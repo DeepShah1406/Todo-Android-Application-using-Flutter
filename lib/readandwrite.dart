@@ -17,12 +17,10 @@ class Storage {
   Future<List<Task>> readTasks() async {
     try {
       final file = await localFile;
-      // Read the file
       String contents = await file.readAsString();
       List<dynamic> jsonData = jsonDecode(contents);
       return jsonData.map((item) => Task.fromJson(item)).toList();
     } catch (e) {
-      // If encountering an error, return an empty list
       return [];
     }
   }
