@@ -9,14 +9,12 @@ class Task {
     completed = !completed;
   }
 
-  // Convert a Task instance to a Map
   Map<String, dynamic> toJson() => {
     'id': id,
     'title': title,
     'completed': completed,
   };
 
-  // Convert a Map to a Task instance
   factory Task.fromJson(Map<String, dynamic> json) => Task(
     id: json['id'] as String,
     title: json['title'] as String,
