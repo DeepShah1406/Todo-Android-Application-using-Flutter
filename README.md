@@ -7,7 +7,9 @@
 - Mark tasks as completed
 - Persist tasks using local storage
 
-<--- ## Screenshots --->
+<--- 
+## Screenshots
+--->
 
 
 ## Project Structure
