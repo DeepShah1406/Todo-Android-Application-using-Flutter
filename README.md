@@ -8,7 +8,6 @@
 - Persist tasks using local storage
 
 
-
 ## Project Structure
 ### main.dart file
 The main entry point of the application. It sets up the main widget and initializes the state.
