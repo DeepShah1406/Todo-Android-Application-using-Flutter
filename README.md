@@ -23,6 +23,10 @@ Handles reading and writing tasks to local storage. Uses the "path_provider" pac
 - To mark a task as completed, tap on the task.
 - All tasks are automatically saved and loaded on app restart.
 
+## Screenshot
+
+<img src="assets/ToDo_App_Screenshot.png" width="30%" alt="Calculator Screenshot" />
+
 ## Dependencies
 - [Flutter](https://flutter.dev/)
 - path_provider
