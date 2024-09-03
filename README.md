@@ -35,7 +35,7 @@ Handles reading and writing tasks to local storage. Uses the "path_provider" pac
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/DeepShah1406/SCT_AD_2/blob/master/LICENSE) file for details.
 
 ## Contact
-- E-Mail ID : [Deep Shah](shahdeep1406@gmail.com)
+- E-Mail ID : [Deep Shah](mailto:shahdeep1406@gmail.com)
 - GitHub : [Deep Shah](https://github.com/DeepShah1406)
 
 ## Acknowledgements
